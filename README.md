@@ -5,7 +5,7 @@ In the Jupyter notebook, YouthLiteracyWorldBank.ipynb, I explore data related to
 ## Questions 
 1. How has youth literacy changed over time?
 2. Which countries have the lowest youth literacy rates?
-3. How are youth literacy rates, per capita income related, and population related?
+3. How are youth literacy rates, per capita income, and population related?
 
 The youth literacy rate has been increasing for all country income groups. 
 
