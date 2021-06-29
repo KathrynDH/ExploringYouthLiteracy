@@ -26,7 +26,7 @@ These countries all have youth literacy rates under 60%.
 The countries with the lowest literacy rates had lower incomes than other countries in the dataset. There were 27 countires under 80% youth literacy. Their median GNI was 850.00 USD and max GNI of 2960.00 USD.
 
 ## Data
-The data was obtained using the World Bank API. The data is stored in the data folder and the Python scripts in the data folder can be used to recreate the csv files.
+The data was obtained using the World Bank API. The data is stored in the data folder and the Python scripts in the data-scripts folder can be used to recreate the csv files.
 
 ## Required Python libraries
 - numpy
