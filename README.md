@@ -2,6 +2,9 @@
  
 In the Jupyter notebook, YouthLiteracyWorldBank.ipynb, I explore data related to youth literacy rates in different countries. The data is from [World Bank Open Data](https://data.worldbank.org/).
 
+View the notebook using Jupyter nbviewer: 
+[https://nbviewer.jupyter.org/github/KathrynDH/ExploringYouthLiteracy/blob/main/YouthLiteracyWorldBank.ipynb](https://nbviewer.jupyter.org/github/KathrynDH/ExploringYouthLiteracy/blob/main/YouthLiteracyWorldBank.ipynb)
+
 ## Questions 
 1. How has youth literacy changed over time?
 2. Which countries have the lowest youth literacy rates?
